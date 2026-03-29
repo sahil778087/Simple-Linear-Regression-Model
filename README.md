@@ -38,4 +38,5 @@ $$\text{Salary} = 26816.19 + (9345.94 \times \text{YearsExperience})$$
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/sahil778087/Simple-Linear-Regression-Model.git](https://github.com/sahil778087/Simple-Linear-Regression-Model.git)
+git clone https://github.com/sahil778087/Simple-Linear-Regression-Model.git
+cd Simple-Linear-Regression-Model
